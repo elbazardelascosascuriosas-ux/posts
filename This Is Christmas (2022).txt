@@ -1,0 +1,113 @@
+This Is Christmas (2022) [SKY ORIGINAL WEB-DL][1080p][CASTELLANO][3,5GB][MEGA]
+
+
+[url=https://postimg.cc/algún-link-poster][img]https://i.postimg.cc/algún-poster-this-is-christmas.jpg[/img][/url]
+
+
+
+Ficha Técnica
+TÍTULO: This Is Christmas
+TÍTULO ORIGINAL: This Is Christmas
+AÑO: 2022
+DURACIÓN: 1 hora 50 minutos
+PAÍS: Reino Unido
+DIRECTOR: Chris Foggin
+GUIÓN: Alastair Galbraith
+REPARTO: Alfred Enoch (Adam), Kaya Scodelario (Emma), Nadia Parkes, Steve Oram, Jo Hartley, Sanjeev Bhaskar
+COMPAÑÍAS: Sky Cinema / Sky Original
+PLATAFORMA ORIGINAL: Sky Cinema / Now TV (disponible en Prime Video en algunos países)
+GÉNERO: Comedia romántica Navidad 
+RATING: 7.0/10 IMDb
+
+
+Sinopsis
+En la semana previa a Navidad, Adam y Emma coinciden cada día en el mismo tren que va del precioso pueblo de Langton a Londres. Siempre ven a los mismos pasajeros: la familia estresada, el señor mayor gruñón, la chica con auriculares... pero nadie se habla. Una mañana, el tren se avería en medio de la nada y Adam decide romper el hielo. Lo que empieza como un gesto espontáneo se convierte en un plan loco para devolver la magia de la Navidad a todos los pasajeros del vagón… y, de paso, surge algo especial entre él y Emma. Una comedia romántica británica cálida, divertida y con toques de realismo que te deja con ganas de un chocolate caliente y un abrazo.
+
+
+Datos del Ripeo
+Ripeo Por: MattDrayton
+Calidad: 1080p Full HD
+Formato: Matroska (.mkv)
+Video: AVC High@L4 1920x1080 23.976 fps
+Audio: Castellano
+Servidor: MEGA 
+
+
+
+[SPOILER]
+
+MediaInfo
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High 10@L4.1
+Ajustes del formato                      : 2 Ref Frames
+Ajustes del formato, CABAC               : No
+Ajustes del formato, RefFrames           : 2 fotogramas
+Ajustes del formato, GOP                 : M=3, N=24
+Modo multiplexor                         : Header stripping
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1 h 50 min
+Tasa de bits                             : 3 961 kb/s
+Tasa de bits nominal                     : 4 525 kb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 10 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.080
+Tamaño de pista                          : 3,07 GiB (92%)
+Librería de codificación                 : x264 core 164
+Opciones de codificación                 : cabac=0 / ref=1 / deblock=1:-1:-1 / analyse=0:0 / me=dia / subme=5 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=0 / threads=24 / lookahead_threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=2 / b_pyramid=0 / b_adapt=0 / b_bias=0 / direct=1 / weightb=0 / open_gop=0 / weightp=0 / keyint=24 / keyint_min=2 / scenecut=0 / intra_refresh=0 / rc_lookahead=0 / rc=cbr / mbtree=0 / bitrate=4525 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=81 / qpstep=4 / vbv_maxrate=4525 / vbv_bufsize=4525 / nal_hrd=none / filler=0 / ip_ratio=1.40 / pb_ratio=1.30 / aq=0
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+  Issue                                  : UniFab 3029 2026-02-04 11:14:57 / mkvmerge v4.9.1 ('Ich will') creado el Jul 11 2011 23:53:15 2026-02-04 12:09:00
+FromStats_BitRate                        : 4045147
+FromStats_Duration                       : 01:50:54.231000000
+FromStats_FrameCount                     : 159542
+FromStats_StreamSize                     : 3364668070
+
+Audio
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Nombre comercial                         : Dolby Digital
+Modo multiplexor                         : Header stripping
+ID códec                                 : A_AC3
+Duración                                 : 1 h 50 min
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 256 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 203 MiB (6%)
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+
+
+[/SPOILER]
+
+
+[Hide][code]
+
+
+
+[/code][/Hide]

@@ -1,0 +1,319 @@
+INUYASHA T2 [BDRemux AVC 1080p][Cat.DTS-HD MA 2.0 Cast.DTS-HD MA 2.0 Jap.DTS-HD MA 2.0][02/27][100.35 Gb][MEGA]
+
+[url=https://postimg.cc/mhcZTgWq][img]https://i.postimg.cc/T20KqK7R/5c5894a19e114.png[/img][/url]
+
+
+Ficha Técnica
+
+NOMBRE: Inuyasha
+NOMBRE EN JAPONES: 犬夜叉
+AÑO: 2000
+PAÍS: Japón
+TEMPORADA: 2
+NUMERO DE EPISODIOS: 27
+TELEVISORA: Yumuri TV
+ESTUDIO: Sunrise
+GENERO: Accion, Comedia, Fantasía, Shonen, Romantica
+
+
+
+Sinopsis
+
+Kagome lleva una vida bastante normal, a pesar de su extraña familia. Su casa es un milenario templo japonés, y su abuelo habla sobre su historia sin cesar. La leyenda dice que el viejo pozo que hay en el templo mantiene atrapado a un antiguo monstruo en su interior; Kagome nunca creyó estas leyendas, hasta ahora. El pozo se abre y arrastra a Kagome dentro de él, transportándola a un tiempo pasado con bosques encantados y gigantescos demonios.
+
+Kagome es rápidamente amenazada por su parecido con Kikuyo, la chica que controlaba el mágico talismán Shikon no Tama y aprisionó al legendario medio-demonio Inu-Yasha. Tras entrar en este mundo de fantasía, Kagome es atacada por un demonio que busca la Shikon no Tama; y libera involuntariamente a Inu-Yasha de su prisión sólo para descubrir que en realidad él no es ningún héroe.
+
+
+
+
+
+
+Datos Del Ripeo
+
+Ripeo Por: MattDrayton
+Servidores: Mega
+
+
+
+
+
+Datos del Video
+Formato                                  : Matroska
+Formato de la versión                    : Version 4
+Tamaño de archivo                        : 3,21 GiB
+Duración                                 : 24 min 7 s
+Modo de tasa de bits                     : Variable
+Tasa de bits general                     : 19,0 Mb/s
+Velocidad de fotogramas                  : 23,976 FPS
+Fecha de codificación                    : 2018-04-06 23:18:48 UTC
+Aplicación de codifición                 : mkvmerge 22.0.0 ('At The End Of The World') 64-bit
+Librería de codificación                 : libebml v1.3.5 + libmatroska v1.4.8
+
+
+[SPOILER]
+
+MediaInfo:
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+Format settings, Slice count             : 4 slices per frame
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 24 min 6 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 15,8 Mb/s
+Tasa de bits máxima                      : 20,0 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Estándar                                 : NTSC
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.318
+Tamaño de pista                          : 2,66 GiB (83%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio #1
+ID                                       : 2
+Formato                                  : DTS XLL
+Formato/Info                             : Digital Theater Systems
+Nombre comercial                         : DTS-HD Master Audio
+ID códec                                 : A_DTS
+Duración                                 : 24 min 7 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 1 064 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 93,750 FPS (512 SPF)
+Profundidad bits                         : 16 bits
+Modo de compresión                       : Sin pérdida
+Retraso relativo al vídeo                : 4 ms
+Tamaño de pista                          : 183 MiB (6%)
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : DTS XLL
+Formato/Info                             : Digital Theater Systems
+Nombre comercial                         : DTS-HD Master Audio
+ID códec                                 : A_DTS
+Duración                                 : 24 min 7 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 1 033 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 93,750 FPS (512 SPF)
+Profundidad bits                         : 16 bits
+Modo de compresión                       : Sin pérdida
+Retraso relativo al vídeo                : 4 ms
+Tamaño de pista                          : 178 MiB (5%)
+Idioma                                   : Catalán
+Default                                  : Sí
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Formato                                  : DTS XLL
+Formato/Info                             : Digital Theater Systems
+Nombre comercial                         : DTS-HD Master Audio
+ID códec                                 : A_DTS
+Duración                                 : 24 min 7 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 1 118 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 93,750 FPS (512 SPF)
+Profundidad bits                         : 16 bits
+Modo de compresión                       : Sin pérdida
+Retraso relativo al vídeo                : 4 ms
+Tamaño de pista                          : 193 MiB (6%)
+Idioma                                   : Japonés
+Default                                  : No
+Forced                                   : No
+
+Texto #1
+ID                                       : 5
+Formato                                  : PGS
+Modo multiplexor                         : zlib
+ID códec                                 : S_HDMV/PGS
+ID códec/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duración                                 : 23 min 51 s
+Tasa de bits                             : 1 665 b/s
+Velocidad de fotogramas                  : 0,021 FPS
+Count of elements                        : 30
+Tamaño de pista                          : 291 KiB (0%)
+Idioma                                   : Español
+Default                                  : Sí
+Forced                                   : No
+
+Texto #2
+ID                                       : 6
+Formato                                  : PGS
+Modo multiplexor                         : zlib
+ID códec                                 : S_HDMV/PGS
+ID códec/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duración                                 : 23 min 50 s
+Tasa de bits                             : 1 412 b/s
+Velocidad de fotogramas                  : 0,015 FPS
+Count of elements                        : 22
+Tamaño de pista                          : 247 KiB (0%)
+Idioma                                   : Catalán
+Default                                  : No
+Forced                                   : No
+
+Texto #3
+ID                                       : 7
+Formato                                  : PGS
+Modo multiplexor                         : zlib
+ID códec                                 : S_HDMV/PGS
+ID códec/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duración                                 : 23 min 51 s
+Tasa de bits                             : 27,0 kb/s
+Velocidad de fotogramas                  : 0,352 FPS
+Count of elements                        : 504
+Tamaño de pista                          : 4,60 MiB (0%)
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : No
+
+
+
+[/SPOILER]
+
+
+
+
+[Hide]
+[code]
+
+2x01 Miroku cae en una dura trampa
+
+Proximamente...
+
+2x02 La agonía de Sango y la vida de Kohaku
+
+Proximamente...
+
+2x03 El robo de Tessaiga, ¡Duelo en el castillo de Naraku!
+
+Proximamente...
+
+2x04 Jinenji, un tierno y amable corazón
+
+Proximamente...
+
+2x05 Kikyo e Inuyasha caen en el miasma
+
+Proximamente...
+
+2x06 Naraku y Kikyo capturada
+
+Proximamente...
+
+2x07 Tessaiga y Tenseiga
+
+Proximamente...
+
+2x08 La espada escoge al verdadero dueño
+
+Proximamente...
+
+2x09 ¡Kagome es el botín! Kōga el demonio lobo súper veloz
+
+Proximamente...
+
+2x10 Aquel que se ha enamorado de Kagome*
+
+Proximamente...
+
+2x11 Dos sentimientos unidos en la distancia
+
+Proximamente...
+
+2x12 Combate a muerte orquestado
+
+Proximamente...
+
+2x13 La trampa mortal de Kagura, la hechicera del viento
+
+Proximamente...
+
+2x14 La danza de Kagura y el espejo de Kanna
+
+Proximamente...
+
+2x15 La Herida del Viento derrotada
+
+Proximamente...
+
+2x16 ¡Finalmente Tessaiga se rompe!
+
+Proximamente...
+
+2x17 La espada maléfica de Kaijinbō
+
+Proximamente...
+
+2x18 Sesshōmaru, empuña a Tōkijin
+
+Proximamente...
+
+2x19 Jūrōmaru y Kagerōmaru
+
+Proximamente...
+
+2x20 El corazón de Onigumo persiste en Naraku
+
+Proximamente...
+
+2x21 ¡Quiero volver al lugar donde nos conocimos!
+
+Proximamente...
+
+2x22 Los recuerdos de Kohaku se han perdido
+
+Proximamente...
+
+2x23 Aquel rostro no desaparece del corazón
+
+Proximamente...
+
+2x24 El corazón devorado de Inuyasha
+
+Proximamente...
+
+2x25 ¡No se detiene! La naturaleza de un demonio
+
+Proximamente...
+
+2x26 Ryūkotsusei, el antiguo enemigo de papá
+
+Proximamente...
+
+2x27 Bakuryūha, la técnica de Tessaiga
+
+Proximamente...
+
+
+
+[/code]
+[/Hide]
