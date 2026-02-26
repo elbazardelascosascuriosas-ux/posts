@@ -1,0 +1,240 @@
+INUYASHA T5 [BDRemux AVC 1080p][Cat.DTS-HD MA 2.0 Cast.DTS-HD MA 2.0 Jap.DTS-HD MA 2.0][28/28][103.18 Gb][MEGA]
+
+[url=https://postimg.cc/mhcZTgWq][img]https://i.postimg.cc/T20KqK7R/5c5894a19e114.png[/img][/url]
+
+
+Ficha Técnica
+
+NOMBRE: Inuyasha
+NOMBRE EN JAPONES: 犬夜叉
+AÑO: 2000
+PAÍS: Japón
+TEMPORADA: 5
+NUMERO DE EPISODIOS: 28
+TELEVISORA: Yumuri TV
+ESTUDIO: Sunrise
+GENERO: Accion, Comedia, Fantasía, Shonen, Romantica
+
+
+
+Sinopsis
+
+Kagome lleva una vida bastante normal, a pesar de su extraña familia. Su casa es un milenario templo japonés, y su abuelo habla sobre su historia sin cesar. La leyenda dice que el viejo pozo que hay en el templo mantiene atrapado a un antiguo monstruo en su interior; Kagome nunca creyó estas leyendas, hasta ahora. El pozo se abre y arrastra a Kagome dentro de él, transportándola a un tiempo pasado con bosques encantados y gigantescos demonios.
+
+Kagome es rápidamente amenazada por su parecido con Kikuyo, la chica que controlaba el mágico talismán Shikon no Tama y aprisionó al legendario medio-demonio Inu-Yasha. Tras entrar en este mundo de fantasía, Kagome es atacada por un demonio que busca la Shikon no Tama; y libera involuntariamente a Inu-Yasha de su prisión sólo para descubrir que en realidad él no es ningún héroe.
+
+
+
+
+
+
+Datos Del Ripeo
+
+Ripeo Por: MattDrayton
+Servidores: Mega
+
+
+
+
+
+Datos del Video
+Formato                                  : Matroska
+Formato de la versión                    : Version 4
+Tamaño de archivo                        : 3,21 GiB
+Duración                                 : 24 min 7 s
+Modo de tasa de bits                     : Variable
+Tasa de bits general                     : 19,0 Mb/s
+Velocidad de fotogramas                  : 23,976 FPS
+Fecha de codificación                    : 2018-04-06 23:18:48 UTC
+Aplicación de codifición                 : mkvmerge 22.0.0 ('At The End Of The World') 64-bit
+Librería de codificación                 : libebml v1.3.5 + libmatroska v1.4.8
+
+
+[SPOILER]
+
+MediaInfo:
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+Format settings, Slice count             : 4 slices per frame
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 24 min 6 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 15,8 Mb/s
+Tasa de bits máxima                      : 20,0 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Estándar                                 : NTSC
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.318
+Tamaño de pista                          : 2,66 GiB (83%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio #1
+ID                                       : 2
+Formato                                  : DTS XLL
+Formato/Info                             : Digital Theater Systems
+Nombre comercial                         : DTS-HD Master Audio
+ID códec                                 : A_DTS
+Duración                                 : 24 min 7 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 1 064 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 93,750 FPS (512 SPF)
+Profundidad bits                         : 16 bits
+Modo de compresión                       : Sin pérdida
+Retraso relativo al vídeo                : 4 ms
+Tamaño de pista                          : 183 MiB (6%)
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : DTS XLL
+Formato/Info                             : Digital Theater Systems
+Nombre comercial                         : DTS-HD Master Audio
+ID códec                                 : A_DTS
+Duración                                 : 24 min 7 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 1 033 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 93,750 FPS (512 SPF)
+Profundidad bits                         : 16 bits
+Modo de compresión                       : Sin pérdida
+Retraso relativo al vídeo                : 4 ms
+Tamaño de pista                          : 178 MiB (5%)
+Idioma                                   : Catalán
+Default                                  : Sí
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Formato                                  : DTS XLL
+Formato/Info                             : Digital Theater Systems
+Nombre comercial                         : DTS-HD Master Audio
+ID códec                                 : A_DTS
+Duración                                 : 24 min 7 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 1 118 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 93,750 FPS (512 SPF)
+Profundidad bits                         : 16 bits
+Modo de compresión                       : Sin pérdida
+Retraso relativo al vídeo                : 4 ms
+Tamaño de pista                          : 193 MiB (6%)
+Idioma                                   : Japonés
+Default                                  : No
+Forced                                   : No
+
+Texto #1
+ID                                       : 5
+Formato                                  : PGS
+Modo multiplexor                         : zlib
+ID códec                                 : S_HDMV/PGS
+ID códec/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duración                                 : 23 min 51 s
+Tasa de bits                             : 1 665 b/s
+Velocidad de fotogramas                  : 0,021 FPS
+Count of elements                        : 30
+Tamaño de pista                          : 291 KiB (0%)
+Idioma                                   : Español
+Default                                  : Sí
+Forced                                   : No
+
+Texto #2
+ID                                       : 6
+Formato                                  : PGS
+Modo multiplexor                         : zlib
+ID códec                                 : S_HDMV/PGS
+ID códec/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duración                                 : 23 min 50 s
+Tasa de bits                             : 1 412 b/s
+Velocidad de fotogramas                  : 0,015 FPS
+Count of elements                        : 22
+Tamaño de pista                          : 247 KiB (0%)
+Idioma                                   : Catalán
+Default                                  : No
+Forced                                   : No
+
+Texto #3
+ID                                       : 7
+Formato                                  : PGS
+Modo multiplexor                         : zlib
+ID códec                                 : S_HDMV/PGS
+ID códec/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duración                                 : 23 min 51 s
+Tasa de bits                             : 27,0 kb/s
+Velocidad de fotogramas                  : 0,352 FPS
+Count of elements                        : 504
+Tamaño de pista                          : 4,60 MiB (0%)
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : No
+
+
+
+[/SPOILER]
+
+
+
+
+[Hide]
+[code]
+
+5x01 ¡Choque! ¡Dragón Salvaje contra Herida del Viento!
+5x02 La barrera de la isla de Hijiri impasible en el lago
+5x03 El Dokko sagrado y el misterio de la momia
+5x04 La lucha solitaria de Kōga
+5x05 La succión de la luz oscura
+5x06 La verdadera cara se muestra
+5x07 Aquel que desaparece en un río de llamas
+5x08 En las entrañas del monte Hakurei
+5x09 Un santo divino y malévolo
+5x10 Adiós, el réquiem de Jakotsu
+5x11 ¡Batalla decisiva! El último y más poderoso Shichinintai
+5x12 El intenso Dragón Salvaje. Combate a muerte en el monte Hakurei
+5x13 Naraku renace más allá de las tinieblas
+5x14 Hasta siempre, querida Kikyo
+5x15 La oscuridad del corazón de Kagome
+5x16 Cambiemos por valor el dolor del corazón
+5x17 ¡No lo hiervas! El terrible demonio reseco
+5x18 El demonio reseco y el enfrentamiento en el festival cultural
+5x19 Súper Kyukai y la novia saqueada
+5x20 Ruge Shippō ¡La herida del corazón!
+5x21 El cuadro de la deidad. Trampas Malditas
+5x22 La confesión más peligrosa del monje Miroku
+5x23 La mujer que se enamora de Sesshomaru (1)
+5x24 La mujer que se enamora de Sesshōmaru (2)
+5x25 El último banquete del maestro de Miroku
+5x26 ¡Qué aparece, qué aparece! El extraño demonio invisible
+5x27 El nombre del antepasado es Kagome
+5x28 Supervivencia de dos en tierras llenas de demonios
+
+https://www.keeplinks.org/p55/69a0752b1cf2e
+ 
+[/code]
+[/Hide]

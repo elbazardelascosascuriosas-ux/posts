@@ -1,0 +1,240 @@
+INUYASHA T4 [BDRemux AVC 1080p][Cat.DTS-HD MA 2.0 Cast.DTS-HD MA 2.0 Jap.DTS-HD MA 2.0][28/28][102.43 Gb][MEGA]
+
+[url=https://postimg.cc/mhcZTgWq][img]https://i.postimg.cc/T20KqK7R/5c5894a19e114.png[/img][/url]
+
+
+Ficha Técnica
+
+NOMBRE: Inuyasha
+NOMBRE EN JAPONES: 犬夜叉
+AÑO: 2000
+PAÍS: Japón
+TEMPORADA: 4
+NUMERO DE EPISODIOS: 28
+TELEVISORA: Yumuri TV
+ESTUDIO: Sunrise
+GENERO: Accion, Comedia, Fantasía, Shonen, Romantica
+
+
+
+Sinopsis
+
+Kagome lleva una vida bastante normal, a pesar de su extraña familia. Su casa es un milenario templo japonés, y su abuelo habla sobre su historia sin cesar. La leyenda dice que el viejo pozo que hay en el templo mantiene atrapado a un antiguo monstruo en su interior; Kagome nunca creyó estas leyendas, hasta ahora. El pozo se abre y arrastra a Kagome dentro de él, transportándola a un tiempo pasado con bosques encantados y gigantescos demonios.
+
+Kagome es rápidamente amenazada por su parecido con Kikuyo, la chica que controlaba el mágico talismán Shikon no Tama y aprisionó al legendario medio-demonio Inu-Yasha. Tras entrar en este mundo de fantasía, Kagome es atacada por un demonio que busca la Shikon no Tama; y libera involuntariamente a Inu-Yasha de su prisión sólo para descubrir que en realidad él no es ningún héroe.
+
+
+
+
+
+
+Datos Del Ripeo
+
+Ripeo Por: MattDrayton
+Servidores: Mega
+
+
+
+
+
+Datos del Video
+Formato                                  : Matroska
+Formato de la versión                    : Version 4
+Tamaño de archivo                        : 3,21 GiB
+Duración                                 : 24 min 7 s
+Modo de tasa de bits                     : Variable
+Tasa de bits general                     : 19,0 Mb/s
+Velocidad de fotogramas                  : 23,976 FPS
+Fecha de codificación                    : 2018-04-06 23:18:48 UTC
+Aplicación de codifición                 : mkvmerge 22.0.0 ('At The End Of The World') 64-bit
+Librería de codificación                 : libebml v1.3.5 + libmatroska v1.4.8
+
+
+[SPOILER]
+
+MediaInfo:
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+Format settings, Slice count             : 4 slices per frame
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 24 min 6 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 15,8 Mb/s
+Tasa de bits máxima                      : 20,0 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Estándar                                 : NTSC
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.318
+Tamaño de pista                          : 2,66 GiB (83%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio #1
+ID                                       : 2
+Formato                                  : DTS XLL
+Formato/Info                             : Digital Theater Systems
+Nombre comercial                         : DTS-HD Master Audio
+ID códec                                 : A_DTS
+Duración                                 : 24 min 7 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 1 064 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 93,750 FPS (512 SPF)
+Profundidad bits                         : 16 bits
+Modo de compresión                       : Sin pérdida
+Retraso relativo al vídeo                : 4 ms
+Tamaño de pista                          : 183 MiB (6%)
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : DTS XLL
+Formato/Info                             : Digital Theater Systems
+Nombre comercial                         : DTS-HD Master Audio
+ID códec                                 : A_DTS
+Duración                                 : 24 min 7 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 1 033 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 93,750 FPS (512 SPF)
+Profundidad bits                         : 16 bits
+Modo de compresión                       : Sin pérdida
+Retraso relativo al vídeo                : 4 ms
+Tamaño de pista                          : 178 MiB (5%)
+Idioma                                   : Catalán
+Default                                  : Sí
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Formato                                  : DTS XLL
+Formato/Info                             : Digital Theater Systems
+Nombre comercial                         : DTS-HD Master Audio
+ID códec                                 : A_DTS
+Duración                                 : 24 min 7 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 1 118 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 93,750 FPS (512 SPF)
+Profundidad bits                         : 16 bits
+Modo de compresión                       : Sin pérdida
+Retraso relativo al vídeo                : 4 ms
+Tamaño de pista                          : 193 MiB (6%)
+Idioma                                   : Japonés
+Default                                  : No
+Forced                                   : No
+
+Texto #1
+ID                                       : 5
+Formato                                  : PGS
+Modo multiplexor                         : zlib
+ID códec                                 : S_HDMV/PGS
+ID códec/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duración                                 : 23 min 51 s
+Tasa de bits                             : 1 665 b/s
+Velocidad de fotogramas                  : 0,021 FPS
+Count of elements                        : 30
+Tamaño de pista                          : 291 KiB (0%)
+Idioma                                   : Español
+Default                                  : Sí
+Forced                                   : No
+
+Texto #2
+ID                                       : 6
+Formato                                  : PGS
+Modo multiplexor                         : zlib
+ID códec                                 : S_HDMV/PGS
+ID códec/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duración                                 : 23 min 50 s
+Tasa de bits                             : 1 412 b/s
+Velocidad de fotogramas                  : 0,015 FPS
+Count of elements                        : 22
+Tamaño de pista                          : 247 KiB (0%)
+Idioma                                   : Catalán
+Default                                  : No
+Forced                                   : No
+
+Texto #3
+ID                                       : 7
+Formato                                  : PGS
+Modo multiplexor                         : zlib
+ID códec                                 : S_HDMV/PGS
+ID códec/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duración                                 : 23 min 51 s
+Tasa de bits                             : 27,0 kb/s
+Velocidad de fotogramas                  : 0,352 FPS
+Count of elements                        : 504
+Tamaño de pista                          : 4,60 MiB (0%)
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : No
+
+
+
+[/SPOILER]
+
+
+
+
+[Hide]
+[code]
+
+4x01 La demonio lobo y la promesa del arcoíris lunar
+4x02 La súper veloz candidata a esposa
+4x03 La maldad en el castillo de la cabeza del demonio de Media noche
+4x04 El secreto de la princesa poseída
+4x05 El viaje solitario de Kikyō
+4x06 Los tres espíritus del dios mono
+4x07 Duelo medicinal entre ese y aquel
+4x08 La valiente declaración de amor de Sōta
+4x09 El curandero misterioso y la Kirara oscura
+4x10 La ambición de los resucitados
+4x11 El misterioso monje libertino
+4x12 Los creadores de la Esfera de los Cuatro Espíritus (1)
+4x13 Los creadores de la Esfera de los Cuatro Espíritus (2)
+4x14 Jaken cae enfermo
+4x15 Kirara no vuelve
+4x16 Kikyō y Kagome solas en una cueva
+4x17 Sesshōmaru y Kōga, el peligroso encuentro
+4x18 Batalla en el bosque del sufrimiento real de las pesadillas
+4x19 Siete años después. Las últimas nieves
+4x20 La tribu de los lobos desolada por un fantasma
+4x21 El regreso de los Shichinintai
+4x22 Mukotsu, el envenenador sigiloso
+4x23 El equipo de acero fantasmal
+4x24 Aome, Miroku y Sango, desesperación absoluta
+4x25 La primera vez que vemos las lágrimas de InuYasha
+4x26 El secreto de la luz pura
+4x27 Aproximación al oculto Monte Hakurei en la niebla
+4x28 Aparece Bankotsu, el líder de los Shichinintai
+
+https://www.keeplinks.org/p55/69a070ea4bb00
+ 
+[/code]
+[/Hide]
