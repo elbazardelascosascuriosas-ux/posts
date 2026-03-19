@@ -1,33 +1,137 @@
 # generador_post_series_peliculas.py
 # Programa para generar posts de series/películas en formato foro
 # Extrae datos de Filmaffinity.com (en español)
-# Limpieza estricta: sin "Serie", "Miniserie", "TV", etc. en título ni título original
-# Ficha sin puntos ni alineaciones con ....
-# Incluye sección fija "Datos del Video"
+# + RATING IMDb vía OMDb (ID extraído + fallback Father Brown)
+# + Subida automática de imágenes a postimages.org vía API + BBCode [url][img]
+#   (con fallback manual si falla)
 
 import requests
 from bs4 import BeautifulSoup
 import os
 import re
 import time
-import json
+from pathlib import Path
 
 IDIOMA_DEFAULT = "CASTELLANO"
 RIPEADOR_DEFAULT = "MattDrayton"
 SERVIDOR_DEFAULT = "MEGA"
 
-# ── TheTVDB v4 ── (cámbialos por tus valores reales)
-TVDB_API_KEY = "TU_API_KEY_DE_PROYECTO_AQUI"  # ← obligatoria
-TVDB_PIN = "TU_PIN_DE_SUSCRIPTOR_AQUI"  # ← si no estás suscrito, pon "" y fallará
+# ── OMDb API ──
+OMDB_API_KEY = "a35cf7f5"
+
+# ── Postimages API ──
+POSTIMAGES_API_KEY = "af7fe551c720dcc86aa2d902ba3d5773"
+
+# ── TheTVDB v4 ── (opcional)
+TVDB_API_KEY = "TU_API_KEY_DE_PROYECTO_AQUI"
+TVDB_PIN = "TU_PIN_DE_SUSCRIPTOR_AQUI"
 
 headers_web = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
 
+def subir_imagen_postimages(ruta_imagen):
+    url = "https://api.postimages.org/1/upload"
+    headers = headers_web.copy()
+    headers["Referer"] = "https://postimages.org/"
+
+    try:
+        with open(ruta_imagen, "rb") as f:
+            files = {"image": (Path(ruta_imagen).name, f, "image/png")}
+            data = {"key": POSTIMAGES_API_KEY, "format": "json"}
+            r = requests.post(url, files=files, data=data, headers=headers, timeout=30)
+            r.raise_for_status()
+
+            try:
+                resp = r.json()
+            except:
+                print(f"Respuesta no JSON: {r.text[:200]}...")
+                return None
+
+            if resp.get("status") == "success":
+                direct_url = resp["data"]["url"]
+                viewer_url = resp["data"]["viewer"]
+                bbcode = f"[url={viewer_url}][img]{direct_url}[/img][/url]"
+                return bbcode
+            else:
+                print(f"Error en API: {resp.get('message', 'desconocido')}")
+                return None
+    except Exception as e:
+        print(f"Error al subir {Path(ruta_imagen).name}: {e}")
+        return None
+
+
+def obtener_rating_imdb(imdb_id=None, titulo=None, año=None, es_serie=True):
+    if imdb_id:
+        params = {"apikey": OMDB_API_KEY, "i": imdb_id}
+    else:
+        search_title = (
+            "Father Brown" if "padre brown" in (titulo or "").lower() else titulo
+        )
+        params = {
+            "apikey": OMDB_API_KEY,
+            "t": search_title,
+            "y": año if año and año.isdigit() else None,
+            "type": "series" if es_serie else "movie",
+        }
+        params = {k: v for k, v in params.items() if v is not None}
+
+    try:
+        r = requests.get(
+            "http://www.omdbapi.com/", params=params, headers=headers_web, timeout=10
+        )
+        r.raise_for_status()
+        data = r.json()
+
+        if data.get("Response") == "True":
+            rating = data.get("imdbRating", "N/A")
+            votos = data.get("imdbVotes", "—")
+            if rating != "N/A" and rating.strip():
+                return f"{rating}/10 ({votos} votos)"
+            return "N/A"
+        else:
+            return "No encontrado en OMDb"
+    except:
+        return "Error"
+
+
+def extraer_imdb_id_de_filmaffinity(soup):
+    possible_containers = [
+        soup.find("div", id="external-links"),
+        soup.find("dl", class_="external-links"),
+        soup.find("div", class_="links"),
+        soup.find("div", id="links"),
+        soup.find("div", class_="movie-external-links"),
+        soup.find("div", class_="external"),
+        soup.find("div", class_="movie-info"),
+        soup.find("div", class_="additional-info"),
+        soup.find("footer"),
+        soup,
+    ]
+
+    for container in possible_containers:
+        if container:
+            links = container.find_all("a", href=True)
+            for a in links:
+                href = a["href"]
+                if "imdb.com/title/" in href or "imdb.com/es-es/title/" in href:
+                    match = re.search(r"(tt\d+)", href)
+                    if match:
+                        return match.group(1)
+
+    all_links = soup.find_all("a", href=re.compile(r"imdb\.com.*tt\d+", re.I))
+    if all_links:
+        href = all_links[0]["href"]
+        match = re.search(r"(tt\d+)", href)
+        if match:
+            return match.group(1)
+
+    return None
+
+
 def obtener_token_tvdb():
     if not TVDB_API_KEY:
-        print("No hay API_KEY configurada para TheTVDB.")
         return None
 
     url = "https://api4.thetvdb.com/v4/login"
@@ -41,8 +145,7 @@ def obtener_token_tvdb():
         )
         r.raise_for_status()
         return r.json()["data"]["token"]
-    except Exception as e:
-        print(f"Error al obtener token TheTVDB: {e}")
+    except:
         return None
 
 
@@ -57,10 +160,9 @@ def buscar_serie_tvdb(token, query):
         r.raise_for_status()
         results = r.json().get("data", [])
         if results:
-            return results[0]["id"]  # primera coincidencia
+            return results[0]["id"]
     except:
-        pass
-    return None
+        return None
 
 
 def obtener_episodios_tvdb(token, serie_id):
@@ -70,19 +172,18 @@ def obtener_episodios_tvdb(token, serie_id):
     episodios_por_temp = {}
     headers = {"Authorization": f"Bearer {token}"}
 
-    # Primero obtenemos el número de temporadas (de /series/{id})
     try:
         url_series = f"https://api4.thetvdb.com/v4/series/{serie_id}?language=spa"
         r = requests.get(url_series, headers=headers, timeout=10)
         r.raise_for_status()
         num_temps = r.json()["data"].get("numberOfSeasons", 1)
     except:
-        num_temps = 5  # fallback razonable
+        num_temps = 5
 
     for temp in range(1, num_temps + 1):
         url = f"https://api4.thetvdb.com/v4/series/{serie_id}/episodes?season={temp}&language=spa"
         try:
-            time.sleep(1.2)  # anti-rate-limit
+            time.sleep(1.2)
             r = requests.get(url, headers=headers, timeout=12)
             if r.status_code != 200:
                 break
@@ -117,10 +218,11 @@ def buscar_filmaffinity(query):
         link = r.find("a")
         if link and link.get("href"):
             href = link["href"]
-            if href.startswith("http"):
-                return href
-            else:
-                return "https://www.filmaffinity.com" + href
+            return (
+                "https://www.filmaffinity.com" + href
+                if not href.startswith("http")
+                else href
+            )
     return None
 
 
@@ -197,29 +299,36 @@ def extraer_ficha_filmaffinity(url):
     else:
         data["titulo_original"] = data["titulo"]
 
+    data["año"] = data.get("año", "—")
+
+    imdb_id = extraer_imdb_id_de_filmaffinity(soup)
+    data["imdb_id"] = imdb_id
+
     return data
 
 
 def generar_post():
-    print("\n=== GENERADOR DE POSTS FILMAFFINITY + TheTVDB ===\n")
-
     query = input("Título a buscar: ").strip()
     url = buscar_filmaffinity(query)
 
     if not url:
-        print("No encontrado en búsqueda automática.")
-        url = input("Introduce la URL de Filmaffinity manualmente: ").strip()
+        url = input("URL Filmaffinity manual: ").strip()
 
     if not url:
-        print("No se proporcionó URL. Saliendo...")
         return
-
-    print("URL utilizada:", url)
-    print("Extrayendo datos...\n")
 
     data = extraer_ficha_filmaffinity(url)
 
-    temporada = input("Temporada (ej: T1) [dejar vacío si es película]: ").strip()
+    temporada = input("Temporada (ej: T1) [vacío = película]: ").strip()
+    es_serie = bool(temporada)
+
+    imdb_id = data.get("imdb_id")
+    rating_imdb = obtener_rating_imdb(
+        imdb_id=imdb_id,
+        titulo=data.get("titulo"),
+        año=data.get("año"),
+        es_serie=es_serie,
+    )
 
     plataformas = {
         "1": "AMZN",
@@ -234,7 +343,7 @@ def generar_post():
         "10": "WEBRip",
     }
 
-    print("\nSelecciona plataforma (o presiona ENTER para WEB):")
+    print("\nSelecciona plataforma (ENTER = WEB):")
     for k, v in plataformas.items():
         print(f"{k} {v}")
 
@@ -252,7 +361,13 @@ def generar_post():
 
     fuente = f"{plataforma} WEB-DL {resolucion_fuente}"
 
-    tamano = input("Tamaño total (ej: 3.5GB o 12.8GB): ").strip()
+    tamano_input = input("Tamaño total (solo número, ej: 3.5 o 12.8): ").strip()
+    try:
+        tamano_num = float(tamano_input)
+        tamano = f"{tamano_num}GB"
+    except ValueError:
+        tamano = "—"
+
     epicom = input("Primer episodio (ej: 01): ").strip()
     epitotal = input("Total episodios (ej: 08): ").strip()
 
@@ -275,47 +390,76 @@ def generar_post():
         print(f"{k} {v}")
 
     opcion_res = input("\nNúmero: ").strip()
-    resolucionx = resolucion.get(opcion_res)
+    resolucionx = resolucion.get(opcion_res, "—")
 
-    tasabits = input(f"Tasa bits: ").strip()
+    tasabits = input("Tasa bits: ").strip()
 
     audiotack = {"1": "AC3 256Kbps 2 canales", "2": "EAC3 640Kbps 6 canales"}
 
-    print("\nSelecciona resolución:")
+    print("\nSelecciona audio:")
     for k, v in audiotack.items():
         print(f"{k} {v}")
 
     opcion_res = input("\nNúmero: ").strip()
-    audiostacks = audiotack.get(opcion_res)
+    audiostacks = audiotack.get(opcion_res, "—")
 
     letritas = {"1": "SI forzados SI", "2": "NO"}
 
-    print("\nSelecciona resolución:")
+    print("\nSubtítulos forzados:")
     for k, v in letritas.items():
         print(f"{k} {v}")
 
     opcion_res = input("\nNúmero: ").strip()
-    subtitulos = letritas.get(opcion_res)
+    subtitulos = letritas.get(opcion_res, "—")
 
-    mediainfo = input("\nPega MediaInfo (ENTER para omitir): ").strip()
-    if not mediainfo:
-        mediainfo = "MediaInfo no incluido"
+    # MediaInfo multilínea
+    print("\nPega el MediaInfo completo aquí (Ctrl+V).")
+    print("Cuando termines, escribe 'FIN' en una línea sola y pulsa Enter.\n")
 
-    # ── TheTVDB: Intentar episodios automáticos ──
+    lines = []
+    while True:
+        line = input()
+        if line.strip().upper() == "FIN":
+            break
+        lines.append(line)
+
+    mediainfo_text = "\n".join(lines).strip()
+    mediainfo = mediainfo_text if mediainfo_text else "MediaInfo no incluido"
+
+    # Imágenes postimages.org
+    imagenes_block = ""
+    print("\n¿Quieres añadir imágenes de postimages.org? (s/n)")
+    respuesta = input().strip().lower()
+    if respuesta in ("s", "si", "sí", "y", "yes"):
+        print("Subida automática no funciona (API restringida).")
+        print("Sube las imágenes manualmente en https://postimages.org/")
+        print(
+            "Copia los códigos BBCode completos (elige 'BBCode (foros)' en la página de resultado)."
+        )
+        print("Pega uno por línea aquí. Termina con Enter vacío.\n")
+
+        bbcode_lines = []
+        while True:
+            bbcode = input().strip()
+            if bbcode == "":
+                break
+            if bbcode.startswith("[url=") and "[img]" in bbcode:
+                bbcode_lines.append(bbcode)
+
+        if bbcode_lines:
+            imagenes_block = "[center]\n"
+            imagenes_block += "\n".join(bbcode_lines) + "\n"
+            imagenes_block += "[/center]\n\n"
+        else:
+            print("No se añadieron imágenes.")
+
     episodios_por_temp = {}
-    print("\nIntentando obtener episodios de TheTVDB...")
     token = obtener_token_tvdb()
     if token:
         serie_id = buscar_serie_tvdb(token, data.get("titulo", query))
         if serie_id:
-            print(f"Serie encontrada en TheTVDB (ID: {serie_id})")
             episodios_por_temp = obtener_episodios_tvdb(token, serie_id)
-        else:
-            print("No se encontró la serie en TheTVDB.")
-    else:
-        print("No se pudo autenticar en TheTVDB (revisa API_KEY y PIN).")
 
-    # Construir bloque de episodios
     if episodios_por_temp:
         episodios_block = '[HIDE="Lista de episodios por temporada"]\n'
         for temp, eps in episodios_por_temp.items():
@@ -348,7 +492,8 @@ DURACIÓN: {data.get('duración', '—')}
 DIRECTOR: {data.get('dirección', '—')}
 REPARTO: {data.get('reparto', '—')}
 GÉNERO: {data.get('género', '—')}
-RATING: {data.get('rating', '—')}
+RATING FILMAFFINITY: {data.get('rating', '—')}
+RATING IMDb: {rating_imdb}
 """
 
     sinopsis = f"""
@@ -381,7 +526,7 @@ Subtitulos: {subtitulos}
 
     post = f"""{titulo_post}
 
-{ficha.strip()}
+{imagenes_block}{ficha.strip()}
 
 {sinopsis.strip()}
 
@@ -407,7 +552,9 @@ Subtitulos: {subtitulos}
 
 
 if __name__ == "__main__":
-    print("Generador de posts Filmaffinity + TheTVDB\n")
+    print(
+        "Generador de posts Filmaffinity + TheTVDB + IMDb + imágenes postimages (manual BBCode)\n"
+    )
     while True:
         generar_post()
         again = input("\n¿Crear otro post? (s/n): ").lower().strip()
