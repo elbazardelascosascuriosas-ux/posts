@@ -1,0 +1,126 @@
+Furias T2 [NF WEB-DL 1080p] [CASTELLANO] [10.3GB] [06/06] [MEGA]
+
+[url=https://postimg.cc/yJ50yvVT][img]https://i.postimg.cc/sXfKyNqb/69ab4cd2557ea.png[/img][/url]
+
+
+Ficha Técnica
+TÍTULO: Furias
+TÍTULO ORIGINAL: Furies
+TEMPORADA: 2
+CAPÍTULOS: 06
+AÑO: 2024
+PAÍS: Francia
+DURACIÓN: 44 min.
+DIRECTOR: Jean-Yves Arnaud (Creador) , Yoann Legave (Creador) , Cedric Nicolas-Troyan , Samuel Bodin , Laura Weaver
+REPARTO: Lina El Arabi Marina Foïs Mathieu Kassovitz Steve Tientcheu Quentin Faure Jeremy Nadeau Sandor Funtek Àlex Brendemühl Anne Azoulay Eye Haidara Fatima Adoum Alex Martin Ver todos los créditos
+GÉNERO: Serie de TV . Acción . Drama | Venganza . Crimen . Paternidad
+RATING FILMAFFINITY: 5,4
+RATING IMDb: 6,3/10
+
+Sinopsis
+Serie de TV (2024-2026). 2 temporadas, 16 episodios. Lyna es una joven que ansía la tranquilidad de una vida normal, pero está decidida a vengar la muerte de su padre y acaba viéndose inmersa en la red de la Furia, la encargada de mantener el equilibrio del submundo criminal de París. Por mucho que se resista a dejarse llevar por su destino, pronto descubrirá que le va a resultar dificilísimo.
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: NF WEB-DL 2160p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×1080 @ 4707 kb/s
+Framerate: 25,000
+Resolución: 1920×1080
+Audio: Castellano EAC3 640Kbps 6 canales
+Subtitulos: SI forzados SI
+
+
+[SPOILER]
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : Main@L4
+Ajustes del formato                      : CABAC / 3 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 3 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 44 min 27 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 4 707 kb/s
+Tasa de bits nominal                     : 5 000 kb/s
+Tasa de bits máxima                      : 7 500 kb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 24,000 FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.095
+Tamaño de pista                          : 1,46 GiB (88%)
+Librería de codificación                 : x264 core 148 r2727 7d026e8
+Opciones de codificación                 : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x111 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / stitchable=1 / constrained_intra=0 / bframes=2 / b_pyramid=0 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=121 / scenecut=0 / intra_refresh=0 / rc_lookahead=48 / rc=2pass / mbtree=1 / bitrate=5000 / ratetol=1.0 / qcomp=0.50 / qpmin=6 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=7500 / vbv_bufsize=10000 / nal_hrd=vbr / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : Sí
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 44 min 27 s
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 640 kb/s
+Canal(es)                                : 6 canales
+Channel layout                           : L R C LFE Ls Rs
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 204 MiB (12%)
+Título                                   : Español
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -27 dB
+compr                                    : -0.28 dB
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID códec                                 : S_TEXT/UTF8
+ID códec/Info                            : UTF-8 Plain Text
+Duración                                 : 39 min 45 s
+Tasa de bits                             : 1 b/s
+Velocidad de fotogramas                  : 0,005 FPS
+Count of elements                        : 13
+Tamaño de pista                          : 319 Bytes (0%)
+Título                                   : Spanish [ForcedNarrative]
+Idioma                                   : Español
+Default                                  : Sí
+Forced                                   : Sí
+[/SPOILER]
+
+
+
+[HIDE]
+[CODE]
+
+2x01 Siempre rescatando perros perdidos.    
+2x02 ¿Comentario sobre cómo detener una furgoneta blindada?    
+2x03 ¡Te has perdido el negocio del siglo!    
+2x04 Una tregua    
+2x05 La mentira    
+2x06 Siempre podré matarte mañana.
+
+
+https://www.keeplinks.org/p55/69bb2d41653c1
+
+[/CODE]
+[/HIDE]

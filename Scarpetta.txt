@@ -1,0 +1,133 @@
+Scarpetta T1 [AMZN WEB-DL 1080p] [CASTELLANO] [24.3GB] [08/08] [MEGA]
+
+[url=https://postimg.cc/rDPVVt34][img]https://i.postimg.cc/5tx6mBms/698cc3c49190e.png[/img][/url]
+
+
+Ficha Técnica
+TÍTULO: Scarpetta
+TÍTULO ORIGINAL: Scarpetta
+TEMPORADA: 1
+CAPÍTULOS: 08
+AÑO: 2026
+PAÍS: Estados Unidos
+DURACIÓN: 52 min.
+DIRECTOR: Elizabeth Sarnoff (Creadora), David Gordon Green, Charlotte Brändström
+REPARTO: Nicole Kidman Jamie Lee Curtis Bobby Cannavale Simon Baker Ariana DeBose Rosy McEwen Amanda Righetti Jake Cannavale Savannah Lumar Janet Montgomery Charlie B. Foster Alex Klein Anson Mount Ver todos los créditos
+GÉNERO: Serie de TV.  Thriller, Drama, Intriga | Crimen.  Asesinos en serie
+RATING: No disponible IMDB
+
+
+
+Sinopsis
+Serie de TV (2026-). 1 temporada, 8 episodios. La doctora Kay Scarpetta es una médica forense, con manos expertas y una mirada inquietante, decidida a ser la voz de las víctimas, desenmascarar a un asesino en serie y demostrar que el caso que impulsó su carrera hace 28 años no fue su perdición.
+
+
+
+Datos del Ripeo
+Ripeado por: MattDrayton
+Fuente: AMZN WEB-DL 1080p
+Servidor: MEGA
+
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920x960 @ 6 266 kb/s
+Framerate: 23,976
+Resolución: 1920x1080
+Audio: Castellano EAC3 640Kbps 6 canales
+Subtitulos: SI forzados
+
+
+[SPOILER]
+MediaInfo
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 54 min 41 s
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 7 742 kb/s
+Tasa de bits nominal                     : 10 000 kb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.156
+Tamaño de pista                          : 2,96 GiB (92%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 54 min 41 s
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 640 kb/s
+Canal(es)                                : 6 canales
+Channel layout                           : L R C LFE Ls Rs
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 250 MiB (8%)
+Título                                   : Español (España)
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID códec                                 : S_TEXT/UTF8
+ID códec/Info                            : UTF-8 Plain Text
+Duración                                 : 48 min 19 s
+Tasa de bits                             : 1 b/s
+Velocidad de fotogramas                  : 0,004 FPS
+Count of elements                        : 12
+Tamaño de pista                          : 385 Bytes (0%)
+Título                                   : Español (España)[Forced]
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : Sí
+
+[/SPOILER]
+
+[Hide]
+[code]
+
+1x01 El puente del tiempo, parte 1 
+1x02 Kay
+1x03 Dot
+1x04 Pete
+1x05 Saludos desde el espacio, querida
+1x06 Benton
+1x07 L + J
+1x08 El puente del tiempo, parte 2
+
+
+
+[/code]
+[/Hide]
