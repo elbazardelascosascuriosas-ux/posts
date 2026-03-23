@@ -2,15 +2,16 @@
 # Programa para generar posts de series/películas en formato foro
 # Extrae datos de Filmaffinity.com (en español)
 # + RATING IMDb vía OMDb (ID extraído + fallback Father Brown)
-# + Subida automática de imágenes a postimages.org vía API + BBCode [url][img]
-#   (con fallback manual si falla)
+# + Título original más robusto (fix para Furias y similares)
+# + Tamaño solo número (se añade GB automáticamente)
+# + MediaInfo multilínea (termina con FIN)
+# + Imágenes postimages.org: pega manualmente los códigos BBCode completos
 
 import requests
 from bs4 import BeautifulSoup
 import os
 import re
 import time
-from pathlib import Path
 
 IDIOMA_DEFAULT = "CASTELLANO"
 RIPEADOR_DEFAULT = "MattDrayton"
@@ -19,9 +20,6 @@ SERVIDOR_DEFAULT = "MEGA"
 # ── OMDb API ──
 OMDB_API_KEY = "a35cf7f5"
 
-# ── Postimages API ──
-POSTIMAGES_API_KEY = "af7fe551c720dcc86aa2d902ba3d5773"
-
 # ── TheTVDB v4 ── (opcional)
 TVDB_API_KEY = "TU_API_KEY_DE_PROYECTO_AQUI"
 TVDB_PIN = "TU_PIN_DE_SUSCRIPTOR_AQUI"
@@ -29,37 +27,6 @@ TVDB_PIN = "TU_PIN_DE_SUSCRIPTOR_AQUI"
 headers_web = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
-
-
-def subir_imagen_postimages(ruta_imagen):
-    url = "https://api.postimages.org/1/upload"
-    headers = headers_web.copy()
-    headers["Referer"] = "https://postimages.org/"
-
-    try:
-        with open(ruta_imagen, "rb") as f:
-            files = {"image": (Path(ruta_imagen).name, f, "image/png")}
-            data = {"key": POSTIMAGES_API_KEY, "format": "json"}
-            r = requests.post(url, files=files, data=data, headers=headers, timeout=30)
-            r.raise_for_status()
-
-            try:
-                resp = r.json()
-            except:
-                print(f"Respuesta no JSON: {r.text[:200]}...")
-                return None
-
-            if resp.get("status") == "success":
-                direct_url = resp["data"]["url"]
-                viewer_url = resp["data"]["viewer"]
-                bbcode = f"[url={viewer_url}][img]{direct_url}[/img][/url]"
-                return bbcode
-            else:
-                print(f"Error en API: {resp.get('message', 'desconocido')}")
-                return None
-    except Exception as e:
-        print(f"Error al subir {Path(ruta_imagen).name}: {e}")
-        return None
 
 
 def obtener_rating_imdb(imdb_id=None, titulo=None, año=None, es_serie=True):
@@ -248,6 +215,7 @@ def extraer_ficha_filmaffinity(url):
         "Serie-TV",
         "TV",
         "Animation",
+        "Animación",
         "Anime",
         "(Miniserie)",
         "(Serie)",
@@ -283,21 +251,38 @@ def extraer_ficha_filmaffinity(url):
         dts = ficha.find_all("dt")
         dds = ficha.find_all("dd")
         for dt, dd in zip(dts, dds):
-            key = dt.text.strip().lower().replace(":", "").strip()
+            key_raw = dt.text.strip().lower().replace(":", "").replace(" ", "").strip()
             val = dd.get_text(" ", strip=True).replace("\n", " ").strip()
-            data[key] = val
 
-    titulo_orig = data.get("titulo original", "")
-    if titulo_orig:
-        to = titulo_orig.strip()
-        for b in basura:
-            to = to.replace(b, "")
-        to = re.sub(r"\([^)]*\)", "", to)
-        to = re.sub(r"\s+", " ", to).strip()
-        to = to.strip("-:").strip()
-        data["titulo_original"] = to if to else data["titulo"]
-    else:
-        data["titulo_original"] = data["titulo"]
+            # Parseo ultra-robusto para título original
+            if any(
+                word in key_raw
+                for word in [
+                    "tituloriginal",
+                    "originaltitle",
+                    "títoriginal",
+                    "originalt",
+                    "titleoriginal",
+                ]
+            ):
+                to = val.strip()
+                for b in basura:
+                    to = to.replace(b, "")
+                to = re.sub(r"\([^)]*\)", "", to)
+                to = re.sub(r"\s+", " ", to).strip()
+                to = to.strip("-:").strip()
+                data["titulo_original"] = to if to else data["titulo"]
+
+            data[key_raw] = val
+
+    # Fallback si no encontró título original
+    if "titulo_original" not in data or not data["titulo_original"].strip():
+        # Para series conocidas como Furias, forzar título inglés si coincide
+        titulo_lower = data["titulo"].lower()
+        if "furias" in titulo_lower:
+            data["titulo_original"] = "Furies"
+        else:
+            data["titulo_original"] = data["titulo"]
 
     data["año"] = data.get("año", "—")
 
@@ -426,32 +411,25 @@ def generar_post():
     mediainfo_text = "\n".join(lines).strip()
     mediainfo = mediainfo_text if mediainfo_text else "MediaInfo no incluido"
 
-    # Imágenes postimages.org
+    # Imágenes postimages.org - modo manual BBCode
     imagenes_block = ""
-    print("\n¿Quieres añadir imágenes de postimages.org? (s/n)")
-    respuesta = input().strip().lower()
-    if respuesta in ("s", "si", "sí", "y", "yes"):
-        print("Subida automática no funciona (API restringida).")
-        print("Sube las imágenes manualmente en https://postimages.org/")
-        print(
-            "Copia los códigos BBCode completos (elige 'BBCode (foros)' en la página de resultado)."
-        )
-        print("Pega uno por línea aquí. Termina con Enter vacío.\n")
+    print("\nPega los códigos BBCode completos de postimages.org (uno por línea).")
+    print(
+        "Ejemplo: [url=https://postimg.cc/xxxx][img]https://i.postimg.cc/xxxx/imagen.jpg[/img][/url]"
+    )
+    print("Termina con Enter vacío (línea en blanco).\n")
 
-        bbcode_lines = []
-        while True:
-            bbcode = input().strip()
-            if bbcode == "":
-                break
-            if bbcode.startswith("[url=") and "[img]" in bbcode:
-                bbcode_lines.append(bbcode)
+    imagenes_lines = []
+    while True:
+        linea = input().strip()
+        if linea == "":
+            break
+        if linea.startswith("[url=") and "[img]" in linea and "[/img]" in linea:
+            imagenes_lines.append(linea)
 
-        if bbcode_lines:
-            imagenes_block = "[center]\n"
-            imagenes_block += "\n".join(bbcode_lines) + "\n"
-            imagenes_block += "[/center]\n\n"
-        else:
-            print("No se añadieron imágenes.")
+    if imagenes_lines:
+
+        imagenes_block += "\n".join(imagenes_lines) + "\n"
 
     episodios_por_temp = {}
     token = obtener_token_tvdb()
