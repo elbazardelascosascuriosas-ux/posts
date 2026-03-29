@@ -1,0 +1,104 @@
+Detective Conan T1 [1080p] [CATALAN] [356.0GB] [20/940] [MEGA]
+
+[url=https://postimg.cc/sBNjCgcL][img]https://i.postimg.cc/ydVk9JS7/6550f38349ffb.png[/img][/url]
+
+Ficha Técnica
+TÍTULO: Detective Conan
+TÍTULO ORIGINAL: Detective Conan
+TEMPORADA: 1
+CAPÍTULOS: 940
+AÑO: 1996
+PAÍS: Japón
+DURACIÓN: 25 min.
+DIRECTOR: Gôshô Aoyama (Creador) , Kenji Kodama , Yasuichiro Yamamoto , Masato Sato , Kōjin Ochi
+REPARTO: Animación
+GÉNERO: Serie de TV . Animación . Aventuras . Comedia . Drama . Intriga . Thriller | Crimen . Whodunit . Manga
+RATING FILMAFFINITY: 6,7
+RATING IMDb: 8.5/10 (17,940 votos)
+
+Sinopsis
+Serie de TV (1996-Actualidad). Más de 680 episodios. Shinichi Kudo es un joven detective que consigue esclarecer cualquier misterio, por difícil que sea. Un día, nuestro protagonista descubre los maléficos planes de una peligrosa organización criminal y es envenenado. Sin embargo, el veneno no lo mata, sino que por accidente, lo encoge y lo convierte en un niño de apenas 6 años. Atrapado en este cuerpo, Shinichi, bajo el seudónimo de Conan Edogawa, deberá resolver los casos más difíciles mientras intenta encontrar un antídoto que lo devuelva a la normalidad y hacer lo posible para que su amiga, Ran Mouri, no sospeche quién es realmente el sabiondo Conan... (FILMAFFINITY)
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×1080 @ 1600 kb/s
+Framerate: 25,000
+Resolución: 1920×1080
+Audio: Castellano AC3 256Kbps 2 canales
+Subtitulos: SI forzados SI
+
+
+[SPOILER]
+MediaInfo
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 3 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 3 fotogramas
+Ajustes del formato, GOP                 : M=1, N=30
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 24 min 43 s
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 5 993 kb/s
+Tasa de bits nominal                     : 7 040 kb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 30,000 FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.096
+Tamaño de pista                          : 1,03 GiB (94%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Nombre comercial                         : Dolby Digital
+ID códec                                 : A_AC3
+Duración                                 : 24 min 43 s
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 256 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Profundidad bits                         : 16 bits
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 45,3 MiB (4%)
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+[/SPOILER]
+
+
+
+[HIDE]
+[CODE]
+
+https://www.keeplinks.org/p55/69be8443206a3
+
+[/CODE]
+[/HIDE]
+

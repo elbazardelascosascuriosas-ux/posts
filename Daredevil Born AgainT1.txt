@@ -1,0 +1,135 @@
+Daredevil: Born Again T1 [NF WEB-DL 1080p] [CASTELLANO] [14.7GB] [09/09] [MEGA]
+
+[url=https://postimg.cc/jChGb2hm][img]https://i.postimg.cc/ZKkZ6yvb/67be532c6fb77.png[/img][/url]
+
+Ficha Técnica
+TÍTULO: Daredevil: Born Again
+TÍTULO ORIGINAL: Daredevil: Born Again
+TEMPORADA: 1
+CAPÍTULOS: 09
+AÑO: 2025
+PAÍS: Estados Unidos
+DURACIÓN: 50min
+DIRECTOR: Dario Scardapane (Creador), Matt Corman (Creador), Chris Ord (Creador), Justin Benson, Aaron Moorhead, David Boyd, Michael Cuesta, Jeffrey Nachmanoff
+REPARTO: Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer
+GÉNERO: Serie de TV. Acción. Thriller | Superhéroes. Cómic. Marvel Comics. Secuela. MCU
+RATING IMDb: 
+
+
+Sinopsis
+
+Matt Murdock, un abogado ciego con habilidades super desarrolladas lucha por la justicia desde su ajetreado bufete mientras el antiguo jefe mafioso Wilson Fisk emprende una carrera política en Nueva York. Cuando sus identidades pasadas empiezan a salir a la luz, ambos se ven abocados a un enfrentamiento inevitable.
+
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: NF WEB-DL 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×1080 @ 4689 kb/s
+Framerate: 25,000
+Resolución: 1920×1080
+Audio: Castellano EAC3 256Kbps 6 canales
+Subtitulos: SI forzados SI
+
+[SPOILER]
+MediaInfo
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 58 min 33 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 4 689 kb/s
+Tasa de bits máxima                      : 12,7 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 24,000 FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.094
+Código tiempo primer fotograma           : 00:00:00;00
+Tamaño de pista                          : 1,92 GiB (95%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 58 min 33 s
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 256 kb/s
+Canal(es)                                : 6 canales
+Channel layout                           : L R C LFE Ls Rs
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 107 MiB (5%)
+Título                                   : Spanish
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -27 dB
+compr                                    : -0.28 dB
+mixlevel                                 : 105 dB
+roomtyp                                  : Small
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID códec                                 : S_TEXT/UTF8
+ID códec/Info                            : UTF-8 Plain Text
+Duración                                 : 49 min 2 s
+Tasa de bits                             : 0 b/s
+Velocidad de fotogramas                  : 0,003 FPS
+Count of elements                        : 8
+Tamaño de pista                          : 261 Bytes (0%)
+Título                                   : es-ES--forced--
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : Sí
+
+[/SPOILER]
+
+[HIDE]
+[CODE]
+
+
+1x01 Media hora en el cielo
+1x02 Apariencias
+1x03 En su seno
+1x04 Sic Semper System
+1x05 Con intereses
+1x06 Exceso de fuerza
+1x07 Por amor al arte
+1x08 La isla de la alegría
+1x09 Directo al infierno
+
+https://www.keeplinks.org/p55/69c391085220f
+
+[/CODE]
+[/HIDE]
+

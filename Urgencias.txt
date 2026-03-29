@@ -1,0 +1,193 @@
+Urgencias T 1 [NF WEB-DL 1080p] [CASTELLANO] [2.5GB] [01/25] [MEGA]
+
+[url=https://postimg.cc/vxZrwmjK][img]https://i.postimg.cc/VvjDMrFz/6626a4eac97ff.png[/img][/url]
+
+
+Ficha Técnica
+TÍTULO: Urgencias
+TÍTULO ORIGINAL: ER
+TEMPORADA: 1
+CAPÍTULOS: 25
+AÑO: 1994
+PAÍS: Estados Unidos
+DURACIÓN: 45 min
+DIRECTOR: Michael Crichton (Creador), Christopher Chulack, Jonathan Kaplan, Richard Thorpe, Stephen Cragg, Lesli Linka Glatter, Félix Enríquez Alcalá, Laura Innes
+REPARTO: Anthony Edwards, George Clooney, Sherry Stringfield, Noah Wyle, Julianna Margulies, Eriq La Salle, Gloria Reuben, Laura Innes, Maria Bello, Alex Kingston, Kellie Martin, Paul McCrane, Goran Visnjic, Michael Michele, Erik Palladino, Ming-Na Wen, Maura Tierney, Sharif Atkins, Mekhi Phifer, Parminder Nagra, Linda Cardellini, Shane West, Scott Grimes, John Stamos, David Lyons, Angela Bassett, William H. Macy, Abraham Benrubi, Conni Marie Brazelton, Ellen Crawford, Deezer D, Yvette Freeman, Vanessa Marquez, Lily Mariye, CCH Pounder, Amy Aquino, Laura Cerón, John Aylward, Jorja Fox, Troy Evans, Leland Orser, Sara Gilbert, John Leguizamo, Gil McKinney, Stanley Tucci, Malgorzata Gebel
+GÉNERO: Serie de TV. Drama | Medicina
+RATING IMDb: 7.9/10 (76,229 votos)
+
+Sinopsis
+
+Urgencias (ER) comenzó a emitirse en Estados Unidos en septiembre del año 1994 y fue estrenada en nuestro país el 16 de enero de 1996. A lo largo de las temporadas la serie ha ido evolucionando hasta convertirse en un gran mosaico de personajes, que aunque tienen sus propias tramas personales, siempre están unidos por un vínculo en común: el County General. Muchos de los actores que comenzaron en su reparto, año I de su producción, como George Clooney o Julianna Margulies han saltado después al cine respaldados por la fama de esta producción. Urgencias es una idea original, entre otros del célebre novelista y guionista Michael Crichton, producida por uno de los más renombrados productores de Hollywood, Steven Spielberg.
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: NF WEB-DL 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×1080 @ 6481 kb/s
+Framerate: 24,000
+Resolución: 1920×1080
+Audio: Castellano AAC 128Kbps 2 canales
+Subtitulos: NO
+
+[SPOILER]
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1 h 26 min
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 6 481 kb/s
+Tasa de bits máxima                      : 20,0 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.130
+Tamaño de pista                          : 3,94 GiB (98%)
+Librería de codificación                 : x264 core 148 r2746 95846cf
+Opciones de codificación                 : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x111 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=120 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / stitchable=1 / constrained_intra=0 / bframes=16 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=121 / scenecut=0 / intra_refresh=0 / rc_lookahead=240 / rc=crf / mbtree=1 / crf=19.0 / qcomp=0.50 / qpmin=6 / qpmax=51 / qpstep=4 / vbv_maxrate=20000 / vbv_bufsize=25000 / crf_max=0.0 / nal_hrd=vbr / filler=0 / ip_ratio=1.40 / aq=1:0.80
+Default                                  : Sí
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : AAC LC SBR
+Formato/Info                             : Advanced Audio Codec Low Complexity with Spectral Band Replication
+Nombre comercial                         : HE-AAC
+Ajustes del formato                      : Explicit
+ID códec                                 : A_AAC-2
+Duración                                 : 1 h 26 min
+Tasa de bits                             : 128 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 23,438 FPS (2048 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 79,6 MiB (2%)
+Título                                   : Español
+Idioma                                   : Español
+Default                                  : Sí
+Forced                                   : No
+[/SPOILER]
+
+
+[HIDE]
+[CODE]
+
+1x01 24 horas
+
+https://www.keeplinks.org/p55/69c85338bd95c
+
+1x02 El primer día
+
+Próximamente...
+
+1x03 De vuelta a casa
+
+Próximamente...
+
+1x04 Atropello y fuga
+
+Próximamente...
+
+1x05 Hacia esa noche tranquila
+
+Próximamente...
+
+1x06 El calor de Chicago
+
+Próximamente...
+
+1x07 Otro día perfecto
+
+Próximamente...
+
+1x08 9 horas y media
+
+Próximamente...
+
+1x09 ER Confidential
+
+Próximamente...
+
+1x10 Ventisca
+
+Próximamente...
+
+1x11 El regalo
+
+Próximamente...
+
+1x12 Feliz Año Nuevo
+
+Próximamente...
+
+1x13 La suerte del sorteo
+
+Próximamente...
+
+1x14 Un largo viaje
+
+Próximamente...
+
+1x15 5 de febrero de 1995
+
+Próximamente...
+
+1x16 Dos corazones
+
+Próximamente...
+
+1x17 La fiesta de cumpleaños
+
+Próximamente...
+
+1x18 Sin dormir en Chicago
+
+Próximamente...
+
+1x19 Trabajo de amor perdido
+
+Próximamente...
+
+1x20 Luna llena, sábado por la noche
+
+Próximamente...
+
+1x21 Castillo de naipes
+
+Próximamente...
+
+1x22 Los hombres planean, Dios se ríe
+
+Próximamente...
+
+1x23 Amor entre las ruinas
+
+Próximamente...
+
+1x24 Maternidad
+
+Próximamente...
+
+1x25 Todo lo viejo vuelve a ser nuevo
+
+Próximamente...
+
+
+[/CODE]
+[/HIDE]
