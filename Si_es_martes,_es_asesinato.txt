@@ -1,0 +1,128 @@
+Si es martes, es asesinato T 1 [DSNP WEB-DL 1080p] [CASTELLANO] [10.4GB] [07/07] [MEGA]
+
+[url=https://postimg.cc/1V4mC6tY][img]https://i.postimg.cc/5ySXtSM1/69846f068fd8c.png[/img][/url]
+
+Ficha Técnica
+TÍTULO: Si es martes, es asesinato
+TÍTULO ORIGINAL: Si es martes, es asesinato
+TEMPORADA: 1
+CAPÍTULOS: 07
+AÑO: 2026
+PAÍS: España
+DURACIÓN: 45min
+DIRECTOR: Carlos Vila (Creador), Salvador Calvo, Abigail Schaaff
+REPARTO: Álex García, Inma Cuesta, Ana Wagener, Biel Montoro, Belén López, Carmen Ruiz, Carla Campra, Luisa Gavasa, Pedro Casablanc
+GÉNERO: Crime, Comedy, Mystery
+RATING TVDB: 446/10
+RATING IMDb: N/A
+
+Sinopsis
+Cuenta la historia de un grupo de turistas durante un viaje organizado a Lisboa. Son un grupo de lo más diverso: Jóvenes, parejas, solteros, adultos... y apenas tienen cosas en común. Pero, cuando uno de los turistas aparece muerto la mañana posterior a su llegada, cuatro de ellos, fans de las novelas policiacas y de misterio, comienzan a investigar si alguno de ellos puede ser el asesino.
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: DSNP WEB-DL 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×1080 @ 5189 kb/s
+Framerate: 25,000
+Resolución: 1920×1080
+Audio: Castellano EAC3 256Kbps 6 canales
+Subtitulos: SI forzados SI
+
+[SPOILER]
+MediaInfo
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 40 min 40 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 4 931 kb/s
+Tasa de bits máxima                      : 12,7 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 24,000 FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.099
+Código tiempo primer fotograma           : 00:00:00;00
+Tamaño de pista                          : 1,40 GiB (95%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 40 min 40 s
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 256 kb/s
+Canal(es)                                : 6 canales
+Channel layout                           : L R C LFE Ls Rs
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 74,5 MiB (5%)
+Título                                   : Spanish
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -27 dB
+compr                                    : -0.28 dB
+mixlevel                                 : 105 dB
+roomtyp                                  : Small
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID códec                                 : S_TEXT/UTF8
+ID códec/Info                            : UTF-8 Plain Text
+Duración                                 : 28 min 48 s
+Tasa de bits                             : 4 b/s
+Velocidad de fotogramas                  : 0,017 FPS
+Count of elements                        : 29
+Tamaño de pista                          : 917 Bytes (0%)
+Título                                   : es-ES--forced--
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : Sí
+
+[/SPOILER]
+
+
+[HIDE]
+[CODE]
+
+1x01 Capitulo 1
+1x02 Capitulo 2
+1x03 Capitulo 3
+1x04 Capitulo 4
+1x05 Capitulo 5
+1x06 Capitulo 6
+1x07 Capitulo 7
+
+[/CODE]
+[/HIDE]
