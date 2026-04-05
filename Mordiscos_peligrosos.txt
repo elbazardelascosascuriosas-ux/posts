@@ -1,0 +1,114 @@
+Mordiscos peligrosos (1985) [AMZN WEB-DL 1080p] [CASTELLANO] [9.05GB] [MEGA]
+
+[url=https://postimg.cc/Ffv466Fn][img]https://i.postimg.cc/SK2xn0Bq/6664d0c33d58f.png[/img][/url]
+
+
+Ficha Técnica
+TÍTULO: Mordiscos peligrosos
+TÍTULO ORIGINAL: Once Bitten
+AÑO: 1985
+PAÍS: Estados Unidos
+DURACIÓN: 94 min
+DIRECTOR: Howard Storm
+GUIÓN: Dimitri Villard, David Hines, Jeffrey Hause
+REPARTO: Lauren Hutton, Jim Carrey, Karen Kopins, Cleavon Little, Thomas Ballatore, Skip Lackey, Jeb Stuart Adams, Joseph Brutsman, Stuart Charno, Robin Klein
+GÉNERO: Comedia, Terror
+RATING IMDb: 5.6/10 (19.275 votos)
+
+Sinopsis
+Una vampira muy atractiva del siglo XX vive en una fabulosa mansión y es atendida con especial servilismo por su criado Sebastián. Pero la condesa tiene un problema: para poder ser siempre joven necesita chupar la sangre de muchachos jóvenes y vírgenes.
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: AMZN WEB-DL 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×1040 @ 13700 kb/s
+Framerate: 23,976
+Resolución: 1920×1040
+Audio: Castellano EAC3 224Kbps 2 canales
+Subtitulos: SI forzados SI
+
+[SPOILER]
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1 h 33 min
+Tasa de bits                             : 13,7 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 040 píxeles
+Relación de aspecto                      : 1,85:1
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.286
+Tamaño de pista                          : 8,90 GiB (98%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 1 h 33 min
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 224 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 149 MiB (2%)
+Título                                   : Español (España)
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dsurmod                                  : Not Dolby Surround encoded
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID códec                                 : S_TEXT/UTF8
+ID códec/Info                            : UTF-8 Plain Text
+Duración                                 : 1 h 21 min
+Tasa de bits                             : 0 b/s
+Velocidad de fotogramas                  : 0,002 FPS
+Count of elements                        : 8
+Tamaño de pista                          : 178 Bytes (0%)
+Título                                   : Español (España)[Forced]
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : Sí
+[/SPOILER]
+
+[HIDE]
+[CODE]
+
+https://www.keeplinks.org/p55/69cff01c6991f
+
+
+[/CODE]
+[/HIDE]

@@ -1,0 +1,114 @@
+Amanecer rojo (1984) [AMZN WEB-DL 1080p] [CASTELLANO] [11.6GB] [MEGA]
+
+[url=https://postimg.cc/wRztw2yX][img]https://i.postimg.cc/4y7zNFXS/red-dawn-365139577-large.png[/img][/url]
+
+
+Ficha Técnica
+TÍTULO: Amanecer rojo
+TÍTULO ORIGINAL: Red Dawn
+AÑO: 1984
+PAÍS: Estados Unidos
+DURACIÓN: 114 min
+DIRECTOR: John Milius
+GUIÓN: Kevin Reynolds, John Milius
+REPARTO: Patrick Swayze, C. Thomas Howell, Lea Thompson, Charlie Sheen, Darren Dalton, Jennifer Grey, Brad Savage, Doug Toby, Ben Johnson, Harry Dean Stanton
+GÉNERO: Acción, Drama, Thriller, Bélico
+RATING IMDb: 6.3/10 (68.522 votos)
+
+Sinopsis
+Son los albores de la Tercera Guerra Mundial. En las montañas del oeste de Estados Unidos, un grupo de adolescentes se une para defender a su pueblo, y a su país, de las fuerzas soviéticas invasoras.
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: AMZN WEB-DL 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×1040 @ 14100 kb/s
+Framerate: 23,976
+Resolución: 1920×1040
+Audio: Castellano EAC3 224Kbps 2 canales
+Subtitulos: SI forzados SI
+
+[SPOILER]
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1 h 54 min
+Tasa de bits                             : 14,4 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 040 píxeles
+Relación de aspecto                      : 1,85:1
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.301
+Tamaño de pista                          : 11,5 GiB (98%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 1 h 54 min
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 224 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 183 MiB (2%)
+Título                                   : Español (España)
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dsurmod                                  : Not Dolby Surround encoded
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID códec                                 : S_TEXT/UTF8
+ID códec/Info                            : UTF-8 Plain Text
+Duración                                 : 1 h 50 min
+Tasa de bits                             : 4 b/s
+Velocidad de fotogramas                  : 0,019 FPS
+Count of elements                        : 124
+Tamaño de pista                          : 3,45 KiB (0%)
+Título                                   : Español (Latinoamérica)[Forced]
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : Sí
+[/SPOILER]
+
+[HIDE]
+[CODE]
+
+https://www.keeplinks.org/p55/69cff8fcbdea3
+
+
+[/CODE]
+[/HIDE]

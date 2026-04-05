@@ -1,0 +1,115 @@
+Las crónicas de Spiderwick (2008) [AMZN WEB-DL 1080p] [CASTELLANO] [6.7GB] [MEGA]
+
+[url=https://postimg.cc/jDXtCfzc][img]https://i.postimg.cc/43CdLbyD/Las-cronicas-de-Spider-Wick-(2008)-poster.png[/img][/url]
+
+
+Ficha Técnica
+TÍTULO: Las crónicas de Spiderwick
+TÍTULO ORIGINAL: The Spiderwick Chronicles
+AÑO: 2008
+PAÍS: Estados Unidos
+DURACIÓN: 96 min
+DIRECTOR: Mark Waters
+GUIÓN: Karey Kirkpatrick, David Berenbaum, John Sayles
+REPARTO: Freddie Highmore, Sarah Bolger, David Strathairn, Mary-Louise Parker, Nick Nolte, Andrew McCarthy, Joan Plowright, Seth Rogen, Martin Short, Jordy Benattar
+GÉNERO: Acción, Aventura, Drama, Familiar, Fantasía, Thriller
+RATING IMDb: 6.5/10 (108.684 votos)
+
+Sinopsis
+Al mudarse a la destartalada finca de Spiderwick con su madre, los hermanos gemelos Jared y Simon Grace, junto con su hermana Mallory, se ven arrastrados a un mundo alternativo lleno de hadas y otras criaturas.
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: AMZN WEB-DL 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×816 @ 8951 kb/s
+Framerate: 23,976
+Resolución: 1920×816
+Audio: Castellano EAC3 640Kbps 6 canales
+Subtitulos: SI forzados SI
+
+[SPOILER]
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1 h 40 min
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 8 951 kb/s
+Tasa de bits nominal                     : 10 000 kb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 816 píxeles
+Relación de aspecto                      : 2,35:1
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.238
+Tamaño de pista                          : 6,25 GiB (93%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 1 h 40 min
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 640 kb/s
+Canal(es)                                : 6 canales
+Channel layout                           : L R C LFE Ls Rs
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 458 MiB (7%)
+Título                                   : Español (España)
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID códec                                 : S_TEXT/UTF8
+ID códec/Info                            : UTF-8 Plain Text
+Duración                                 : 1 h 26 min
+Tasa de bits                             : 0 b/s
+Velocidad de fotogramas                  : 0,001 FPS
+Count of elements                        : 6
+Tamaño de pista                          : 135 Bytes (0%)
+Título                                   : Español (España)[Forced]
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : Sí
+[/SPOILER]
+
+[HIDE]
+[CODE]
+
+https://www.keeplinks.org/p55/69d0cef32bedb
+
+
+[/CODE]
+[/HIDE]

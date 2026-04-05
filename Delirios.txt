@@ -1,0 +1,99 @@
+Delirios (1991) [AMZN WEB-DL 1080p] [CASTELLANO] [9.73GB] [MEGA]
+
+[url=https://postimg.cc/3k9xh7yd][img]https://i.postimg.cc/pdMhDLRY/13566.png[/img][/url]
+
+
+Ficha Técnica
+TÍTULO: Delirios
+TÍTULO ORIGINAL: Delirious
+AÑO: 1991
+PAÍS: Estados Unidos
+DURACIÓN: 96 min
+DIRECTOR: Tom Mankiewicz
+GUIÓN: Lawrence J. Cohen, Fred Freeman
+REPARTO: John Candy, Mariel Hemingway, Emma Samms, Raymond Burr, Dylan Baker, Charles Rocket, David Rasche, Andrea Thompson, Zach Grenier, Jerry Orbach
+GÉNERO: Comedia, Fantasía
+RATING IMDb: 5.8/10 (10.748 votos)
+
+Sinopsis
+Cuando el escritor Jack (John Candy) se golpea la cabeza, despierta en el plató de una telenovela, escribe entonces su papel en la trama y luego se ve atrapado entre la chica "guapa mala" (Emma Samma) y la "accidentada buena" (Mariel Hemmingway).
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: AMZN WEB-DL 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×1040 @ 14300 kb/s
+Framerate: 23,976
+Resolución: 1920×1040
+Audio: Castellano EAC3 224Kbps 2 canales
+Subtitulos: NO
+
+[SPOILER]
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1 h 36 min
+Tasa de bits                             : 14,3 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 040 píxeles
+Relación de aspecto                      : 1,85:1
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.298
+Tamaño de pista                          : 9,59 GiB (98%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 1 h 36 min
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 224 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 154 MiB (2%)
+Título                                   : Español (España)
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dsurmod                                  : Not Dolby Surround encoded
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+[/SPOILER]
+
+[HIDE]
+[CODE]
+
+https://www.keeplinks.org/p55/69cfe4a65ecb2
+
+
+[/CODE]
+[/HIDE]

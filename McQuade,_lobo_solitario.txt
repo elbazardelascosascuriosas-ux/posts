@@ -1,0 +1,114 @@
+McQuade, lobo solitario (1983) [AMZN WEB-DL 1080p] [CASTELLANO] [11.1GB] [MEGA]
+
+[url=https://postimg.cc/HVH31KkZ][img]https://i.postimg.cc/hPQYTRWB/lone-wolf-mcquade-160500928-large.png[/img][/url]
+
+
+Ficha Técnica
+TÍTULO: McQuade, lobo solitario
+TÍTULO ORIGINAL: Lone Wolf McQuade
+AÑO: 1983
+PAÍS: Estados Unidos
+DURACIÓN: 107 min
+DIRECTOR: Steve Carver
+GUIÓN: B.J. Nelson, H. Kaye Dyal
+REPARTO: Chuck Norris, David Carradine, Barbara Carrera, Leon Isaac Kennedy, Robert Beltran, L.Q. Jones, Dana Kimmell, R.G. Armstrong, Jorge Cervera Jr., Sharon Farrell
+GÉNERO: Acción, Crimen, Drama, Romance, Thriller, Western
+RATING IMDb: 6.3/10 (15.866 votos)
+
+Sinopsis
+Un Texas Ranger deja de lado sus armas para usar sus habilidades en artes marciales y enfrentarse a un digno rival, dueño de un negocio de armas.
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: AMZN WEB-DL 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×1040 @ 14600 kb/s
+Framerate: 23,976
+Resolución: 1920×1040
+Audio: Castellano EAC3 224Kbps 2 canales
+Subtitulos: SI forzados SI
+
+[SPOILER]
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1 h 47 min
+Tasa de bits                             : 14,6 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 040 píxeles
+Relación de aspecto                      : 1,85:1
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.305
+Tamaño de pista                          : 10,9 GiB (98%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 1 h 47 min
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 224 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 172 MiB (2%)
+Título                                   : Español (España)
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dsurmod                                  : Not Dolby Surround encoded
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID códec                                 : S_TEXT/UTF8
+ID códec/Info                            : UTF-8 Plain Text
+Duración                                 : 1 s 335 ms
+Tasa de bits                             : 89 b/s
+Velocidad de fotogramas                  : 0,749 FPS
+Count of elements                        : 1
+Tamaño de pista                          : 15,0 Bytes (0%)
+Título                                   : Español (España)[Forced]
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : Sí
+[/SPOILER]
+
+[HIDE]
+[CODE]
+
+https://www.keeplinks.org/p55/69cfea85de2b2
+
+
+[/CODE]
+[/HIDE]

@@ -1,0 +1,99 @@
+Yo, el Halcón (1987) [AMZN WEB-DL 1080p] [CASTELLANO] [9.21GB] [MEGA]
+
+[url=https://postimg.cc/6TL62FLt][img]https://i.postimg.cc/bY4ZMhZD/Yo_el_halcón_(1987)_poster.png[/img][/url]
+
+
+Ficha Técnica
+TÍTULO: Yo, el Halcón
+TÍTULO ORIGINAL: Over the Top
+AÑO: 1987
+PAÍS: Estados Unidos
+DURACIÓN: 93 min
+DIRECTOR: Menahem Golan
+GUIÓN: Gary Conway, David Engelbach, Stirling Silliphant
+REPARTO: Sylvester Stallone, Robert Loggia, Susan Blakely, Rick Zumwalt, David Mendenhall, Chris McCarty, Terry Funk, Bob Beattie, Allan Graf, Magic Schwarz
+GÉNERO: Acción, Drama, Deporte
+RATING IMDb: 5.9/10 (64.953 votos)
+
+Sinopsis
+Lincoln es un camionero que solo quiere estar con su hijo, a quien abandonó hace 12 años. Ahora debe participar en luchas para recuperar el amor de su hijo, que está en una academia militar.
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: AMZN WEB-DL 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×816 @ 13800 kb/s
+Framerate: 23,976
+Resolución: 1920×816
+Audio: Castellano EAC3 224Kbps 2 canales
+Subtitulos: NO
+
+[SPOILER]
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1 h 33 min
+Tasa de bits                             : 13,8 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 816 píxeles
+Relación de aspecto                      : 2,35:1
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.368
+Tamaño de pista                          : 9,06 GiB (98%)
+Default                                  : Sí
+Forced                                   : No
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 1 h 33 min
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 224 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 150 MiB (2%)
+Título                                   : Español (España)
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dsurmod                                  : Not Dolby Surround encoded
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+[/SPOILER]
+
+[HIDE]
+[CODE]
+
+https://www.keeplinks.org/p55/69d0cd75528bc
+
+
+[/CODE]
+[/HIDE]
