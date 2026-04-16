@@ -1,0 +1,130 @@
+Bronca T1 [NF WEB-DL 1080p] [CASTELLANO] [12.5GB] [10/10] [MEGA]
+
+[url=https://postimg.cc/5Y8P3ZjH][img]https://i.postimg.cc/RFDjMmBT/69d579fd6c322.png[/img][/url]
+
+Ficha Técnica
+TÍTULO: Bronca
+TÍTULO ORIGINAL: BEEF
+TEMPORADA: T1
+CAPÍTULOS: 10
+AÑO: 2023
+PAÍS: Estados Unidos
+DURACIÓN: 35 min
+DIRECTOR: Lee Sung Jin (Creador), Hikari, Jake Schreier, Lee Sung Jin
+GUIÓN: Lee Sung Jin
+REPARTO: Steven Yeun, Ali Wong, Joseph Lee, Young Mazino, David Choe, Patti Yasutake, Oscar Isaac, Carey Mulligan, Charles Melton, Cailee Spaeny, Song Kang-ho
+GÉNERO: Drama, Comedia
+RATING IMDb: 8.0/10 (158,257 votos)
+
+Sinopsis
+Un incidente de ira en la carretera entre dos extraños, un contratista fallido y un empresario insatisfecho, desencadena una disputa que saca a relucir sus impulsos más oscuros.
+
+Datos del ripeo
+Ripeado por: MattDrayton
+Fuente: NF WEB-DL 1080p
+Servidor: MEGA
+
+Datos del Video
+Formato: Matroska
+Video: High@L4 | 1920×1080 @ 6111 kb/s
+Framerate: 23,976
+Resolución: 1920×1080
+Audio: Castellano EAC3 640Kbps 6 canales
+Subtítulos: SI forzados SI
+
+[SPOILER]
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 39 min 3 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 6 181 kb/s
+Tasa de bits máxima                      : 20,0 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 23,976 (24000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.124
+Tamaño de pista                          : 1,69 GiB (91%)
+Librería de codificación                 : x264 core 148 r2727 7d026e8
+Opciones de codificación                 : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x111 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=120 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / stitchable=1 / constrained_intra=0 / bframes=16 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=121 / scenecut=0 / intra_refresh=0 / rc_lookahead=240 / rc=crf / mbtree=1 / crf=16.0 / qcomp=0.50 / qpmin=6 / qpmax=51 / qpstep=4 / vbv_maxrate=20000 / vbv_bufsize=25000 / crf_max=0.0 / nal_hrd=vbr / filler=0 / ip_ratio=1.40 / aq=1:0.80
+Default                                  : Sí
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Enhanced AC-3
+Nombre comercial                         : Dolby Digital Plus
+ID códec                                 : A_EAC3
+Duración                                 : 39 min 3 s
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 640 kb/s
+Canal(es)                                : 6 canales
+Channel layout                           : L R C LFE Ls Rs
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 179 MiB (9%)
+Título                                   : Español
+Idioma                                   : Español
+Service kind                             : Complete Main
+Default                                  : Sí
+Forced                                   : No
+Dialog Normalization                     : -25 dB
+compr                                    : -0.28 dB
+dialnorm_Average                         : -25 dB
+dialnorm_Minimum                         : -25 dB
+dialnorm_Maximum                         : -25 dB
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID códec                                 : S_TEXT/UTF8
+ID códec/Info                            : UTF-8 Plain Text
+Duración                                 : 37 min 17 s
+Tasa de bits                             : 4 b/s
+Velocidad de fotogramas                  : 0,017 FPS
+Count of elements                        : 38
+Tamaño de pista                          : 1,29 KiB (0%)
+Título                                   : Spanish [ForcedNarrative]
+Idioma                                   : Español
+Default                                  : Sí
+Forced                                   : Sí
+[/SPOILER]
+
+[HIDE]
+[CODE]
+
+1x01 Los pájaros no cantan, chillan de dolor
+1x02 El éxtasis de estar vivo
+1x03 Me habita un llanto
+1x04 Pero no todo a la vez
+1x05 Esas criaturas secretas que habitan en nuestro interior
+1x06 Dibujamos un círculo mágico
+1x07 Soy una jaula
+1x08 El drama de la elección original
+1x09 El gran fabricante
+1x10 Figuras de luz
+
+https://www.keeplinks.org/p55/69dcb0f1e7f85
+
+[/CODE]
+[/HIDE]
+
+[CENTER][SIZE=5][B][HIGHLIGHT]Para descarga, esta serie con JDownloader 2.[/HIGHLIGHT][/B][/SIZE]
+
+[SIZE=5][B][HIGHLIGHT]Tenéis que utilizar la versión WinRAR 7.0. Esa versión o superior.[/HIGHLIGHT][/B][/SIZE]
+
+[SIZE=5][B][HIGHLIGHT]Que no hay ningún archivo con contraseña.[/HIGHLIGHT][/B][/SIZE][/CENTER]
